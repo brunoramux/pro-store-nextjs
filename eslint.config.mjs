@@ -47,7 +47,6 @@ export default [
       "@next/next/no-html-link-for-pages": "off",
 
       // Qualidade
-      "no-console": ["warn", { allow: ["warn", "error"] }],
       "no-unused-vars": "off",
       "@typescript-eslint/no-unused-vars": ["warn"],
 
